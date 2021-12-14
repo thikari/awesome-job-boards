@@ -176,6 +176,7 @@ A curated list of awesome niche job boards.
 * [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
+* [Sportekjobs](https://sportekjobs.com/) - Tech and Startup jobs in sportstech
 
 ### Australia
 
